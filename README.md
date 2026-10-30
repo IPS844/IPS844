@@ -1,91 +1,54 @@
-# Gaurav Prakash
+## Hi, I'm Gaurav Prakash 👋
 
-### Building AI-powered Growth Systems for Founders
+**AI Search and Organic Growth Leader | SEO, GEO, AEO, CRO and ORM | 9+ Years**
 
-I help founders and growth teams improve AI visibility, increase qualified leads, and make better growth decisions by combining AI Search, SEO, CRO, analytics, and automation.
+I help brands get more mentions, more citations, more qualified leads and more revenue from Google and AI search engines.
 
-I'm currently building StackFree, an AI Visibility & Growth Intelligence platform that helps teams prioritize the highest-impact actions instead of relying on dashboards full of metrics.
+### 🚧 Currently Building
 
-📈 Impact Delivered ⭐⭐⭐⭐⭐
+**[StackFree](https://stackfree.io)**, an AI Visibility and Growth Intelligence platform that helps teams act on the highest impact opportunities instead of reading dashboards full of metrics.
 
-- 🚀 Delivered ~13X ROI through organic SEO by combining Technical SEO, CRO, AI Search, content strategy, and automation.
-- 💰 Managed and optimized a $36K/month Google Ads budget, achieving ~11X ROI across Search & YouTube campaigns while improving lead quality(CRO) by 22%.
-- 🤖 Increased AI Search visibility to 60%+ and generated 100+ qualified monthly leads through AI Search, GEO, AEO, and LLM-focused optimization.
-- 📈 Managed and optimized websites with 7,000+ pages while helping more than 1,300 pages rank on the first page of Google.
-- 🛡️ Led end-to-end Online Reputation Management (ORM), strengthening brand trust signals and maintaining a consistently positive search presence.
-- ⚡ Built AI-powered reporting systems using Claude, GSC API, GA4 API, Python, and Looker Studio, reducing manual reporting by 70% while automatically prioritizing high-impact growth opportunities.
-- 🔄 Designed AI workflow automations using n8n, AirOps, Serper API, GSC API, and GA4 API to automate competitor research, keyword discovery, content gap analysis, and 90-day growth planning for SaaS businesses.
-- 📊 Improved website performance through CRO and UX optimization, increasing CTR from 0.8% to 3.2% and reducing bounce rate from 62% to 34%.
-- 🌍 Delivered SEO, CRO, AI Search, analytics, automation, and growth initiatives across SaaS, EdTech, Recruitment, D2C, and international markets.
+* Built an LLM Brand Visibility Tracker
+* Launched ARC (AI Reputation and Citation Management) for founders and marketers
+* Ran original research on 1,100+ prompts across ChatGPT, Perplexity, Gemini and Google AI Overviews to map how LLMs select and cite sources
 
-## What I Can Help With
+### 🤖 AI Search and GEO Impact
 
-- AI Search Optimization: GEO, AEO, AI Overviews, LLM visibility
-- SEO Strategy: technical SEO, content strategy, topic clusters, schema, internal linking
-- Growth Automation: GSC API, GA4 API, Python scripts, reporting workflows
-- CRO: landing page audits, CTA strategy, funnel analysis, conversion improvement
-- ORM: brand SERP, Reddit, Quora, reviews, trust signals
-- Analytics: GA4, GTM, Looker Studio, attribution, performance reporting
+* Designed a 700 prompt universe with personas, intents and topics, and tracked 3,500 AI responses across ChatGPT, Gemini, Perplexity, Google AI Mode and AI Overviews
+* Raised brand sentiment in AI answers for a top global business school from 7.8 to 8.9 and improved its AI visibility by 27%
+* Made a leading US FMCG food brand the visibility leader on Gemini for its core products
+* Ran AI search audits for a top US eyewear retailer, a major US city government and a leading US research institute
+* Raised AI visibility to 60%+ for an EdTech brand and drove 100+ qualified monthly leads from LLM cited content
 
-## 🚀 Currently Building
+### 📈 SEO, CRO and Paid Impact
 
-### 🚀 **StackFree** – [View Repository](https://github.com/IPS844/stackfree)
-An AI-powered AI Visibility and Growth Intelligence platform that helps founders understand how their brand is discovered, trusted, and cited across ChatGPT, Gemini, Claude, Perplexity, Google AI Overviews, Reddit, and the open web. 
-StackFree continuously analyzes AI visibility, LLM citations, search performance, customer behavior, and marketing data to identify the highest-impact opportunities for growth. Instead of dashboards full of metrics, founders get clear priorities on what their team should focus on today, this week, and this month to maximize revenue.
+* Delivered about 13X ROI from organic SEO across 7,000+ pages, with 42% more qualified leads
+* Helped 1,300+ pages rank on the first and second page of Google
+* Delivered 215% organic traffic growth in 4.5 months with region specific SEO
+* Built and launched a community forum from scratch to 10k+ questions and 100+ verified leads per month
+* Managed a $36K monthly Google Ads budget with about 11X ROI across Search and YouTube, and 22% better lead quality from video
+* Lifted CTR from 0.8% to 3.2% and cut bounce rate from 62% to 34% through CRO and UX work
+* Led Online Reputation Management across search and review platforms to build brand trust
 
-### GrowthOS
-A practical training platform designed to help marketers think beyond traditional SEO by combining AI Search, GEO, CRO, analytics, automation, and growth systems with real business decision-making.
+### ⚡ Automation and AI Workflows
 
-### AI Search Research
-Running continuous experiments to understand how ChatGPT, Gemini, Claude, Perplexity, and Google AI Overviews discover, evaluate, trust, and cite brands, with a focus on identifying the signals that influence AI visibility.
+* Built a Claude to Conductor automation over MCP that pulls AI tracking data and generates client audit reports with locked report standards
+* Built AI reporting systems with Claude, GSC API, GA4 API, Python and Looker Studio, cutting manual reporting by 70% and ranking growth opportunities by impact
+* Designed AI workflows with n8n, AirOps, Serper API, GSC API and GA4 API to automate competitor research, keyword discovery, content gap analysis and 90 day growth plans for SaaS businesses
 
+### 🧭 Product Work
 
-## 📂 Open Source Projects
+* Led the launch of Kraya AI, from requirements and engineering collaboration to go to market
+* Led cross functional teams of up to 23 across SEO, paid ads, paid social and content
 
-🚀 StackFree
-→ Repository
+### 🌍 Industries
 
-📊 SignalOS
-→ Repository
+SaaS, EdTech, FMCG, Retail, Higher Education, Government, Nonprofit, Recruitment, D2C and Travel, across the USA, UK, Europe, UAE, Australia and India.
 
-🤖 SEO Automation Toolkit
-→ Repository
+### 🛠️ Stack
 
-📈 GSC & GA4 API Dashboard
-→ Repository
+`Claude` `MCP` `Python` `n8n` `AirOps` `GSC API` `GA4 API` `Serper API` `GTM` `Looker Studio` `Conductor` `Ahrefs` `SEMrush` `Screaming Frog`
 
-🧠 AI Search Research
-→ Repository
+### 📫 Connect
 
-## 📚 Latest Articles
-
-- How AI Trust Signals Influence LLM Citations
-- Revenue First SEO: Why Rankings Aren't Enough
-- Recruitment SEO in the AI Search Era
-- How Reddit Influences AI Search Visibility
-
-👉 Read more: https://blog.growth-os.org
-
-## 📫 Let's Connect
-
-If you're building a SaaS, D2C, or service business and want to improve AI visibility, organic growth, conversion rates, or automate marketing workflows, I'd be happy to connect.
-
-🌐 **Website:** https://stackfree.io
-📝 **Blog:** https://blog.growth-os.org
-💼 **LinkedIn:** https://linkedin.com/in/prak-gaur123456
-📧 **Email:** gauravprakash844@gmail.com
-
-<!--
-**IPS844/IPS844** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://linkedin.com/in/prakgaur123456) | [StackFree](https://stackfree.io) | gauravprakash844@gmail.com
